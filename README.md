@@ -1,4 +1,4 @@
-Sublime-Text-II-ERB-Snippets
+Sublime-Text-2-ERB-Snippets
 ====================
 
 A collection of [Sublime Text](http://www.sublimetext.com/) snippets useful for writing [ERB](http://ruby-doc.org/stdlib-1.9.3/libdoc/erb/rdoc/ERB.html)
@@ -8,17 +8,17 @@ A collection of [Sublime Text](http://www.sublimetext.com/) snippets useful for 
 ### For OSX
 
     $ cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/
-    $ git clone git://github.com/matthewrobertson/ERB-Sublime-Snippets.git ERB_Snippets
+    $ git clone https://github.com/Chakaitos/Sublime-Text-2-ERB-Snippets.git ERB_Snippets
 
 ### For Windows
 
     $ cd %APPDATA%/Sublime Text 2/Packages/
-    $ git clone git://github.com/matthewrobertson/ERB-Sublime-Snippets.git ERB_Snippets
+    $ git clone https://github.com/Chakaitos/Sublime-Text-2-ERB-Snippets.git ERB_Snippets
 
 ### For Linux
 
     $ cd ~/.Sublime Text 2/Packages/
-    $ git clone git://github.com/matthewrobertson/ERB-Sublime-Snippets.git ERB_Snippets
+    $ git clone https://github.com/Chakaitos/Sublime-Text-2-ERB-Snippets.git ERB_Snippets
 
 ##Snippets and Bindings
 
@@ -87,4 +87,4 @@ A collection of [Sublime Text](http://www.sublimetext.com/) snippets useful for 
 
 ##License
 
-Released under [WTFPL, Version 2](https://raw.github.com/matthewrobertson/ERB-Sublime-Snippets/master/LICENSE.txt)
+Released under [WTFPL, Version 2](https://github.com/Chakaitos/Sublime-Text-2-ERB-Snippets/blob/master/LICENSE.txt)
